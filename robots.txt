@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aimuothooy.devcode.work/sitemap.xml
